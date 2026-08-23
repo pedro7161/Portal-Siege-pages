@@ -1,0 +1,301 @@
+{
+  "menu": {
+    "title": "Cerco do Portal",
+    "subtitle": "Toque para Batalhar",
+    "start": "Começar",
+    "permanent_research": "Pesquisa Permanente",
+    "settings": "Configurações",
+    "tutorial": "Tutorial",
+    "almanac": "Almanaque",
+    "exit": "Sair",
+    "import_data": "Importar Dados",
+    "skins": "Aparências"
+  },
+  "tutorial": {
+    "title": "Como Jogar",
+    "merge_title": "Fundir",
+    "merge_body": "Junta duas unidades do mesmo tipo e nível para criar uma peça mais forte. As fusões poupam espaço no tabuleiro e são a tua melhor forma de aguentar as ondas finais.",
+    "grid_title": "Grelha",
+    "grid_body": "Só a grelha 3x3 combate. Coloca cavaleiros à frente para ganhar tempo e deixa assassinos e arqueiros atacar na linha que eles seguram.",
+    "bench_title": "Banco",
+    "bench_body": "O banco é a tua área de preparação. Guarda pares, organiza futuras fusões e evita encher a grelha ativa antes do início da onda.",
+    "summon_title": "Invocar",
+    "summon_body": "As invocações alimentam o teu motor de fusões. Gasta ouro quando isso te der um upgrade ou estabilizar a próxima luta, não só porque o botão está disponível.",
+    "research_title": "Pesquisa",
+    "research_body": "Cada onda limpa faz avançar a tua pesquisa da run. Escolhe o separador que encaixa no teu plano atual: poder do exército, sobrevivência do castelo, controlo dos inimigos ou ritmo económico.",
+    "permanent_title": "Pesquisa Permanente",
+    "permanent_body": "A moeda meta desbloqueia melhorias duradouras entre runs. Usa-a para suavizar começos fracos, abrir mais opções e construir arranques mais fortes.",
+    "start_wave_title": "Iniciar Onda",
+    "start_wave_body": "Ganhar dá ouro e faz avançar a pesquisa. Cada fuga acerta no castelo, por isso cada posicionamento é também um teste de sobrevivência para a próxima onda.",
+    "footer": "Constrói para a próxima onda, funde para a onda a seguir.",
+    "close": "Percebi!",
+    "got_it": "Percebi",
+    "skip": "Saltar tutorial",
+    "step_summon_title": "Invoca uma unidade",
+    "step_summon_body": "Toca em Invocar para comprar uma unidade aleatória. Ela aparece no teu banco.",
+    "step_drag_title": "Coloca-a na grelha",
+    "step_drag_body": "Arrasta a tua unidade do banco para a grelha 3×3. Só as unidades na grelha combatem.",
+    "step_bench_title": "Este é o teu banco",
+    "step_bench_body": "As unidades de reserva esperam aqui. Mantém pares prontos para fundir antes de a onda começar.",
+    "step_merge_title": "Funde duas unidades",
+    "step_merge_body": "Arrasta duas unidades do mesmo tipo e nível uma para a outra para as fundir numa mais forte.",
+    "step_priority_title": "Define o que ela ataca",
+    "step_priority_body": "Toca numa unidade e escolhe a sua prioridade de alvo — mais próximo, mais vida, chefe, e mais.",
+    "step_research_title": "Escolhe a pesquisa",
+    "step_research_body": "Abre a Pesquisa e escolhe um nó. Vencer ondas faz avançar a pesquisa e reforça o teu exército.",
+    "step_wave_title": "Inicia a onda",
+    "step_wave_body": "Toca em Iniciar Onda para lutar. Vence para ganhar ouro e avançar a tua pesquisa."
+  },
+  "almanac": {
+    "archive": "Arquivo",
+    "back": "Voltar",
+    "close": "Fechar",
+    "unknown": "Desconhecido",
+    "locked_entry": "Derrota ou encontra esta entrada em batalha para revelar o registo.",
+    "base_stats": "Estatísticas Base",
+    "stats_locked": "Estatísticas bloqueadas.",
+    "mechanics": "Mecânicas",
+    "mechanics_locked": "Mecânicas bloqueadas.",
+    "player_unit": "Unidade do Jogador",
+    "enemy_unit": "Unidade Inimiga",
+    "boss": "Chefe",
+    "tier_short": "T",
+    "player_entries": {
+      "player": {
+        "tank": {
+          "1": {
+            "story": "Âncora da linha da frente que absorve pressão e cria espaço para o resto do exército. Cavaleiros de nível 1 são veteranos de cerco treinados para ficar onde a linha de batalha normalmente quebraria.",
+            "mechanics": [
+              "Os cavaleiros seguram a linha da frente e transformam a durabilidade do nível 1 em mais tempo para cada unidade atrás deles.",
+              "Funcionam melhor como primeiro ponto de contacto, para que arqueiros continuem a disparar e assassinos encontrem janelas limpas para avançar."
+            ]
+          },
+          "2": {
+            "story": "Âncora da linha da frente que absorve pressão e cria espaço para o resto do exército. Cavaleiros de nível 2 são veteranos de cerco treinados para ficar onde a linha de batalha normalmente quebraria.",
+            "mechanics": [
+              "Os cavaleiros seguram a linha da frente e transformam a durabilidade do nível 2 em mais tempo para cada unidade atrás deles.",
+              "Funcionam melhor como primeiro ponto de contacto, para que arqueiros continuem a disparar e assassinos encontrem janelas limpas para avançar."
+            ]
+          },
+          "3": {
+            "story": "Âncora da linha da frente que absorve pressão e cria espaço para o resto do exército. Cavaleiros de nível 3 são veteranos de cerco treinados para ficar onde a linha de batalha normalmente quebraria.",
+            "mechanics": [
+              "Os cavaleiros seguram a linha da frente e transformam a durabilidade do nível 3 em mais tempo para cada unidade atrás deles.",
+              "Funcionam melhor como primeiro ponto de contacto, para que arqueiros continuem a disparar e assassinos encontrem janelas limpas para avançar."
+            ]
+          }
+        },
+        "dps": {
+          "1": {
+            "story": "Finalizador corpo a corpo agressivo, feito para punir aberturas e transformar fusões em mortes. Assassinos de nível 1 lutam como carrascos, entrando em pontos fracos antes de a linha inimiga recuperar.",
+            "mechanics": [
+              "Os assassinos vivem de trocas curtas em combate corpo a corpo e batem mais forte sempre que fundes numa carry mais limpa e mais densa.",
+              "Mantém-nos logo atrás de um cavaleiro ou numa linha protegida para passarem mais tempo a atacar do que a caminhar."
+            ]
+          },
+          "2": {
+            "story": "Finalizador corpo a corpo agressivo, feito para punir aberturas e transformar fusões em mortes. Assassinos de nível 2 lutam como carrascos, entrando em pontos fracos antes de a linha inimiga recuperar.",
+            "mechanics": [
+              "Os assassinos vivem de trocas curtas em combate corpo a corpo e batem mais forte sempre que fundes numa carry mais limpa e mais densa.",
+              "Mantém-nos logo atrás de um cavaleiro ou numa linha protegida para passarem mais tempo a atacar do que a caminhar."
+            ]
+          },
+          "3": {
+            "story": "Finalizador corpo a corpo agressivo, feito para punir aberturas e transformar fusões em mortes. Assassinos de nível 3 lutam como carrascos, entrando em pontos fracos antes de a linha inimiga recuperar.",
+            "mechanics": [
+              "Os assassinos vivem de trocas curtas em combate corpo a corpo e batem mais forte sempre que fundes numa carry mais limpa e mais densa.",
+              "Mantém-nos logo atrás de um cavaleiro ou numa linha protegida para passarem mais tempo a atacar do que a caminhar."
+            ]
+          }
+        },
+        "ranged": {
+          "1": {
+            "story": "Especialista de retaguarda que causa dano à distância em segurança enquanto a linha da frente compra tempo. Arqueiros de nível 1 ganham batalhas com paciência, abatendo ameaças muito antes de elas poderem responder.",
+            "mechanics": [
+              "Os arqueiros transformam distância em segurança, deixando a pressão de alcance do nível 1 continuar a disparar enquanto unidades mais resistentes os protegem.",
+              "Coloca-os atrás da linha da frente e deixa que pesquisa e fusões transformem dano constante em controlo da onda."
+            ]
+          },
+          "2": {
+            "story": "Especialista de retaguarda que causa dano à distância em segurança enquanto a linha da frente compra tempo. Arqueiros de nível 2 ganham batalhas com paciência, abatendo ameaças muito antes de elas poderem responder.",
+            "mechanics": [
+              "Os arqueiros transformam distância em segurança, deixando a pressão de alcance do nível 2 continuar a disparar enquanto unidades mais resistentes os protegem.",
+              "Coloca-os atrás da linha da frente e deixa que pesquisa e fusões transformem dano constante em controlo da onda."
+            ]
+          },
+          "3": {
+            "story": "Especialista de retaguarda que causa dano à distância em segurança enquanto a linha da frente compra tempo. Arqueiros de nível 3 ganham batalhas com paciência, abatendo ameaças muito antes de elas poderem responder.",
+            "mechanics": [
+              "Os arqueiros transformam distância em segurança, deixando a pressão de alcance do nível 3 continuar a disparar enquanto unidades mais resistentes os protegem.",
+              "Coloca-os atrás da linha da frente e deixa que pesquisa e fusões transformem dano constante em controlo da onda."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "desktop": {
+    "run_status": "Estado da Run",
+    "highest_tier": "Maior Nivel",
+    "army": "Exercito",
+    "grid_used": "Grelha Usada",
+    "reserve_used": "Reserva Usada",
+    "no_units": "Ainda nao ha unidades colocadas.",
+    "known_threats": "Ameacas Conhecidas",
+    "no_threats": "Ainda nao descobriste inimigos."
+  },
+  "game": {
+    "landscape_only": "Apenas Paisagem",
+    "rotate_landscape": "Rode o dispositivo para paisagem para jogar.",
+    "gold": "Ouro",
+    "wave": "Onda",
+    "hp": "HP",
+    "loading": "A carregar…",
+    "wave_clear": "Onda Limpa!",
+    "units": "Unidades",
+    "reserve_grid": "Reserva e Grelha",
+    "show": "Mostrar",
+    "hide": "Ocultar",
+    "controls": "Controlos",
+    "actions": "Ações",
+    "expand": "Expandir",
+    "default": "Padrão",
+    "research": "Pesquisa",
+    "permanent": "Permanente",
+    "reserve_bench": "Banco de Reserva",
+    "active_grid": "Grelha Ativa",
+    "cannot_merge": "Nao pode fundir - tipo ou nivel diferentes!",
+    "press_drag_move": "Pressiona e arrasta para mover",
+    "summon_button": "Invocar (50G)",
+    "preview_wave": "Ver composicao da proxima onda",
+    "wave_info": "Info da Onda",
+    "start_wave": "Iniciar Onda",
+    "waves": "ondas",
+    "open_research": "Abrir Pesquisa",
+    "preview": "Previsao",
+    "no_enemies_wave": "Nao ha inimigos nesta onda",
+    "total": "Total",
+    "enemies": "inimigos",
+    "complete": "Completa",
+    "gold_gained": "Ouro Ganho",
+    "enemies_killed": "Inimigos Mortos",
+    "damage_received": "Dano Recebido",
+    "unit_stats": "Estatisticas das Unidades",
+    "continue": "Continuar",
+    "close": "Fechar",
+    "unit_details": "Detalhes da Unidade",
+    "tier": "Nivel",
+    "tier_short": "T",
+    "health": "Vida",
+    "damage": "Dano",
+    "range": "Alcance",
+    "attack_speed": "Velocidade de Ataque",
+    "armor": "Armadura",
+    "cost": "Custo",
+    "sell_value": "Valor de Venda",
+    "type": "Tipo",
+    "sell_unit": "Vender Unidade",
+    "unit_damage_stats": "Estatisticas de Dano das Unidades",
+    "damage_dealt": "Dano Causado",
+    "no_units_battle": "Nenhuma unidade participou na batalha",
+    "game_over": "Fim de Jogo",
+    "max_wave": "Onda Maxima",
+    "max_tier": "Nivel Maximo",
+    "total_merges": "Total de Fusoes",
+    "damage_taken": "Dano Sofrido",
+    "gold_earned": "Ouro Ganho",
+    "gold_spent": "Ouro Gasto",
+    "meta_coins_gained": "Moedas Meta Ganhas",
+    "restart": "Reiniciar",
+    "back_to_menu": "Voltar ao Menu",
+    "unit_tank": "Cavaleiro",
+    "unit_dps": "Ladino",
+    "unit_ranged": "Arqueiro",
+    "boss_mace": "Senhor da Maça",
+    "boss_ballista": "Demônio Balista",
+    "boss_pitch_fork": "Demônio do Forcado",
+    "boss_spear": "Cavaleiro da Lança",
+    "boss_portal": "Guardião do Portal",
+    "enemy_tank": "Demonio Tanque",
+    "enemy_dps": "Demonio DPS",
+    "enemy_archer": "Demonio Arqueiro",
+    "enemy_goblin": "Goblin",
+    "random_boss": "Chefe Aleatorio",
+    "revive_banner": "Bastião Imortal — de volta ao início da onda",
+    "bench_full": "Reserva cheia",
+    "leave_game": "Sair",
+    "leave_game_confirm": "Sair desta partida e voltar ao menu? A tua partida atual será perdida."
+  },
+  "settings": {
+    "title": "Configurações",
+    "language": "Idioma",
+    "reduced_motion": "Movimento Reduzido",
+    "reduced_motion_desc": "Reduz animações e movimento visual da interface.",
+    "compact_menu": "Menu Compacto",
+    "compact_menu_desc": "Reduz o espaçamento e o tamanho dos botões do menu principal.",
+    "confirm_exit": "Confirmar Saída",
+    "confirm_exit_desc": "Pede confirmação antes de fechar a app no menu principal.",
+    "muted": "Silenciar Tudo",
+    "muted_desc": "Silencia música e efeitos sonoros.",
+    "music_enabled": "Música",
+    "music_enabled_desc": "Toca música ambiente durante as ondas.",
+    "music_volume": "Volume da Música",
+    "music_volume_desc": "Define o volume da música de fundo.",
+    "sfx_enabled": "Efeitos Sonoros",
+    "sfx_enabled_desc": "Toca impactos, disparos e alertas de combate.",
+    "sfx_volume": "Volume dos Efeitos",
+    "sfx_volume_desc": "Define o volume dos efeitos de combate e da interface.",
+    "sign_in_play_games": "Entrar com Play Games",
+    "signed_in_as": "Sessão iniciada como",
+    "signing_in": "A iniciar sessão…",
+    "analytics": "Permitir análises anónimas",
+    "analytics_desc": "Partilhar dados de utilização anónimos e não pessoais para ajudar a melhorar o jogo. Desativado por predefinição."
+  },
+  "save_transfer": {
+    "title": "Transferência de Save",
+    "subtitle": "Exporta o save atual ou cola um aqui para importar noutro dispositivo.",
+    "data": "Dados do Save",
+    "placeholder": "Exporta um save, ou cola um aqui para importar.",
+    "export": "Exportar Save",
+    "copy": "Copiar",
+    "import": "Importar Save",
+    "close": "Fechar",
+    "exported": "Save atual exportado abaixo.",
+    "copied": "Save copiado para a área de transferência.",
+    "copy_failed": "Falha ao copiar. Ainda pode copiar o texto manualmente.",
+    "imported": "Save importado. A recarregar...",
+    "import_failed": "A importação falhou. Verifica os dados colados e tenta outra vez."
+  },
+  "cloud_save": {
+    "conflict_title": "Conflito de progresso",
+    "conflict_body": "Este dispositivo e a nuvem têm progresso diferente. Qual queres manter?",
+    "keep_device": "Manter este dispositivo",
+    "keep_cloud": "Manter a nuvem"
+  },
+  "unit": {
+    "something": {
+      "knight": "Cavaleiro",
+      "rogue": "Assassino",
+      "archer": "Arqueiro"
+    }
+  },
+  "stats": {
+    "title": "Configuração de Unidade",
+    "health": "Vida",
+    "damage": "Dano",
+    "range": "Alcance",
+    "attackSpeed": "Velocidade de Ataque",
+    "tier": "Nível",
+    "base": "Base",
+    "run": "Execução",
+    "permanent": "Permanente"
+  },
+  "skins": {
+    "title": "Aparências das Unidades",
+    "close": "Fechar",
+    "default": "Padrão",
+    "class_tank": "Cavaleiro",
+    "class_dps": "Ladino",
+    "class_ranged": "Arqueiro"
+  }
+}

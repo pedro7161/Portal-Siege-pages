@@ -1,0 +1,301 @@
+{
+  "menu": {
+    "title": "Asedio del Portal",
+    "subtitle": "Tocar para luchar",
+    "start": "Comenzar",
+    "permanent_research": "Investigación Permanente",
+    "settings": "Ajustes",
+    "tutorial": "Tutorial",
+    "almanac": "Almanaque",
+    "exit": "Salir",
+    "import_data": "Importar datos",
+    "skins": "Aspectos"
+  },
+  "tutorial": {
+    "title": "Como Jugar",
+    "merge_title": "Fusionar",
+    "merge_body": "Junta dos unidades del mismo tipo y nivel para crear una pieza mas fuerte. Las fusiones ahorran espacio y son tu mejor forma de aguantar las oleadas finales.",
+    "grid_title": "Cuadricula",
+    "grid_body": "Solo la cuadricula 3x3 combate. Pon caballeros delante para ganar tiempo y deja que picaros y arqueros ataquen por la linea que ellos sostienen.",
+    "bench_title": "Banco",
+    "bench_body": "El banco es tu zona de preparacion. Guarda pares, prepara futuras fusiones y evita saturar la cuadricula activa antes de empezar la oleada.",
+    "summon_title": "Invocar",
+    "summon_body": "Las invocaciones alimentan tu motor de fusiones. Gasta oro cuando eso te de una mejora o estabilice la siguiente pelea, no solo porque el boton esta libre.",
+    "research_title": "Investigacion",
+    "research_body": "Cada oleada superada hace avanzar tu investigacion de la run. Elige la pestana que encaje con tu plan actual: poder del ejercito, supervivencia del castillo, control del enemigo o ritmo economico.",
+    "permanent_title": "Investigacion Permanente",
+    "permanent_body": "La moneda meta desbloquea mejoras duraderas entre runs. Usala para suavizar inicios flojos, abrir mas opciones y construir arranques mas fuertes.",
+    "start_wave_title": "Iniciar Oleada",
+    "start_wave_body": "Ganar da oro y hace avanzar la investigacion. Cada fuga golpea el castillo, asi que cada colocacion tambien es una prueba de supervivencia para la siguiente oleada.",
+    "footer": "Construye para la siguiente oleada, fusiona para la que viene despues.",
+    "close": "Entendido",
+    "got_it": "Entendido",
+    "skip": "Saltar tutorial",
+    "step_summon_title": "Invoca una unidad",
+    "step_summon_body": "Toca Invocar para comprar una unidad aleatoria. Aparece en tu banco.",
+    "step_drag_title": "Colocala en la cuadricula",
+    "step_drag_body": "Arrastra tu unidad del banco a la cuadricula 3x3. Solo las unidades en la cuadricula combaten.",
+    "step_bench_title": "Este es tu banco",
+    "step_bench_body": "Las unidades de reserva esperan aqui. Manten pares listos para fusionar antes de que empiece la oleada.",
+    "step_merge_title": "Fusiona dos unidades",
+    "step_merge_body": "Arrastra dos unidades del mismo tipo y nivel entre si para fusionarlas en una mas fuerte.",
+    "step_priority_title": "Define a quien ataca",
+    "step_priority_body": "Toca una unidad y elige su prioridad de objetivo: mas cercano, mas vida, jefe, y mas.",
+    "step_research_title": "Elige investigacion",
+    "step_research_body": "Abre Investigacion y elige un nodo. Ganar oleadas la hace avanzar y potencia tu ejercito.",
+    "step_wave_title": "Inicia la oleada",
+    "step_wave_body": "Toca Iniciar Oleada para combatir. Gana para conseguir oro y avanzar tu investigacion."
+  },
+  "almanac": {
+    "archive": "Archivo",
+    "back": "Volver",
+    "close": "Cerrar",
+    "unknown": "Desconocido",
+    "locked_entry": "Derrota o encuentra esta entrada en batalla para revelar su registro.",
+    "base_stats": "Estadísticas Base",
+    "stats_locked": "Estadísticas bloqueadas.",
+    "mechanics": "Mecánicas",
+    "mechanics_locked": "Mecánicas bloqueadas.",
+    "player_unit": "Unidad del Jugador",
+    "enemy_unit": "Unidad Enemiga",
+    "boss": "Jefe",
+    "tier_short": "T",
+    "player_entries": {
+      "player": {
+        "tank": {
+          "1": {
+            "story": "Ancla de primera linea que absorbe presion y crea espacio para el resto del ejercito. Los caballeros de nivel 1 son veteranos de asedio entrenados para mantenerse donde el ejercito se romperia.",
+            "mechanics": [
+              "Los caballeros sostienen la primera linea y convierten la durabilidad de nivel 1 en mas tiempo para cada aliado colocado detras.",
+              "Funcionan mejor como primer punto de contacto para que arqueros y picaros sigan pegando con ventanas limpias."
+            ]
+          },
+          "2": {
+            "story": "Ancla de primera linea que absorbe presion y crea espacio para el resto del ejercito. Los caballeros de nivel 2 son veteranos de asedio entrenados para mantenerse donde el ejercito se romperia.",
+            "mechanics": [
+              "Los caballeros sostienen la primera linea y convierten la durabilidad de nivel 2 en mas tiempo para cada aliado colocado detras.",
+              "Funcionan mejor como primer punto de contacto para que arqueros y picaros sigan pegando con ventanas limpias."
+            ]
+          },
+          "3": {
+            "story": "Ancla de primera linea que absorbe presion y crea espacio para el resto del ejercito. Los caballeros de nivel 3 son veteranos de asedio entrenados para mantenerse donde el ejercito se romperia.",
+            "mechanics": [
+              "Los caballeros sostienen la primera linea y convierten la durabilidad de nivel 3 en mas tiempo para cada aliado colocado detras.",
+              "Funcionan mejor como primer punto de contacto para que arqueros y picaros sigan pegando con ventanas limpias."
+            ]
+          }
+        },
+        "dps": {
+          "1": {
+            "story": "Rematador agresivo de cuerpo a cuerpo, hecho para castigar huecos y convertir fusiones en bajas. Los picaros de nivel 1 pelean como verdugos, entrando en puntos debiles antes de que la linea enemiga se recupere.",
+            "mechanics": [
+              "Los picaros viven de intercambios cortos en mele y pegan mas fuerte cada vez que los fusionas en un carry mas limpio y compacto.",
+              "Mantenlos justo detras de un caballero o en una linea protegida para que pasen mas tiempo atacando que caminando."
+            ]
+          },
+          "2": {
+            "story": "Rematador agresivo de cuerpo a cuerpo, hecho para castigar huecos y convertir fusiones en bajas. Los picaros de nivel 2 pelean como verdugos, entrando en puntos debiles antes de que la linea enemiga se recupere.",
+            "mechanics": [
+              "Los picaros viven de intercambios cortos en mele y pegan mas fuerte cada vez que los fusionas en un carry mas limpio y compacto.",
+              "Mantenlos justo detras de un caballero o en una linea protegida para que pasen mas tiempo atacando que caminando."
+            ]
+          },
+          "3": {
+            "story": "Rematador agresivo de cuerpo a cuerpo, hecho para castigar huecos y convertir fusiones en bajas. Los picaros de nivel 3 pelean como verdugos, entrando en puntos debiles antes de que la linea enemiga se recupere.",
+            "mechanics": [
+              "Los picaros viven de intercambios cortos en mele y pegan mas fuerte cada vez que los fusionas en un carry mas limpio y compacto.",
+              "Mantenlos justo detras de un caballero o en una linea protegida para que pasen mas tiempo atacando que caminando."
+            ]
+          }
+        },
+        "ranged": {
+          "1": {
+            "story": "Especialista de retaguardia que causa dano a distancia con seguridad mientras la primera linea compra tiempo. Los arqueros de nivel 1 ganan batallas con paciencia, derribando amenazas mucho antes de que puedan responder.",
+            "mechanics": [
+              "Los arqueros convierten la distancia en seguridad, dejando que la presion de alcance de nivel 1 siga disparando mientras otras unidades mas resistentes les compran tiempo.",
+              "Colocalos detras de la primera linea y deja que la investigacion y las fusiones conviertan el dano constante en control de la oleada."
+            ]
+          },
+          "2": {
+            "story": "Especialista de retaguardia que causa dano a distancia con seguridad mientras la primera linea compra tiempo. Los arqueros de nivel 2 ganan batallas con paciencia, derribando amenazas mucho antes de que puedan responder.",
+            "mechanics": [
+              "Los arqueros convierten la distancia en seguridad, dejando que la presion de alcance de nivel 2 siga disparando mientras otras unidades mas resistentes les compran tiempo.",
+              "Colocalos detras de la primera linea y deja que la investigacion y las fusiones conviertan el dano constante en control de la oleada."
+            ]
+          },
+          "3": {
+            "story": "Especialista de retaguardia que causa dano a distancia con seguridad mientras la primera linea compra tiempo. Los arqueros de nivel 3 ganan batallas con paciencia, derribando amenazas mucho antes de que puedan responder.",
+            "mechanics": [
+              "Los arqueros convierten la distancia en seguridad, dejando que la presion de alcance de nivel 3 siga disparando mientras otras unidades mas resistentes les compran tiempo.",
+              "Colocalos detras de la primera linea y deja que la investigacion y las fusiones conviertan el dano constante en control de la oleada."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "desktop": {
+    "run_status": "Estado de la Partida",
+    "highest_tier": "Mayor Nivel",
+    "army": "Ejercito",
+    "grid_used": "Cuadricula Usada",
+    "reserve_used": "Reserva Usada",
+    "no_units": "Aun no hay unidades desplegadas.",
+    "known_threats": "Amenazas Conocidas",
+    "no_threats": "Aun no has descubierto enemigos."
+  },
+  "game": {
+    "landscape_only": "Solo Horizontal",
+    "rotate_landscape": "Gira el dispositivo a horizontal para jugar.",
+    "gold": "Oro",
+    "wave": "Oleada",
+    "hp": "HP",
+    "loading": "Cargando…",
+    "wave_clear": "Oleada Superada!",
+    "units": "Unidades",
+    "reserve_grid": "Reserva y Cuadricula",
+    "show": "Mostrar",
+    "hide": "Ocultar",
+    "controls": "Controles",
+    "actions": "Acciones",
+    "expand": "Expandir",
+    "default": "Normal",
+    "research": "Investigacion",
+    "permanent": "Permanente",
+    "reserve_bench": "Banco de Reserva",
+    "active_grid": "Cuadricula Activa",
+    "cannot_merge": "No se puede fusionar - tipo o nivel diferentes!",
+    "press_drag_move": "Mantener y arrastrar para mover",
+    "summon_button": "Invocar (50G)",
+    "preview_wave": "Ver composicion de la siguiente oleada",
+    "wave_info": "Info de Oleada",
+    "start_wave": "Iniciar Oleada",
+    "waves": "oleadas",
+    "open_research": "Abrir Investigacion",
+    "preview": "Vista Previa",
+    "no_enemies_wave": "No hay enemigos en esta oleada",
+    "total": "Total",
+    "enemies": "enemigos",
+    "complete": "Completa",
+    "gold_gained": "Oro Ganado",
+    "enemies_killed": "Enemigos Eliminados",
+    "damage_received": "Dano Recibido",
+    "unit_stats": "Estadisticas de Unidades",
+    "continue": "Continuar",
+    "close": "Cerrar",
+    "unit_details": "Detalles de la Unidad",
+    "tier": "Nivel",
+    "tier_short": "T",
+    "health": "Vida",
+    "damage": "Dano",
+    "range": "Alcance",
+    "attack_speed": "Velocidad de Ataque",
+    "armor": "Armadura",
+    "cost": "Costo",
+    "sell_value": "Valor de Venta",
+    "type": "Tipo",
+    "sell_unit": "Vender Unidad",
+    "unit_damage_stats": "Estadisticas de Dano de Unidades",
+    "damage_dealt": "Dano Causado",
+    "no_units_battle": "Ninguna unidad participo en la batalla",
+    "game_over": "Fin de la Partida",
+    "max_wave": "Oleada Maxima",
+    "max_tier": "Nivel Maximo",
+    "total_merges": "Total de Fusiones",
+    "damage_taken": "Dano Recibido",
+    "gold_earned": "Oro Ganado",
+    "gold_spent": "Oro Gastado",
+    "meta_coins_gained": "Monedas Meta Ganadas",
+    "restart": "Reiniciar",
+    "back_to_menu": "Volver al Menu",
+    "unit_tank": "Caballero",
+    "unit_dps": "Pícaro",
+    "unit_ranged": "Arquero",
+    "boss_mace": "Señor de la Maza",
+    "boss_ballista": "Demonio Balista",
+    "boss_pitch_fork": "Demonio del Tridente",
+    "boss_spear": "Jinete de Lanza",
+    "boss_portal": "Guardián del Portal",
+    "enemy_tank": "Demonio Tanque",
+    "enemy_dps": "Demonio DPS",
+    "enemy_archer": "Demonio Arquero",
+    "enemy_goblin": "Goblin",
+    "random_boss": "Jefe Aleatorio",
+    "revive_banner": "Bastión Imperecedero — de vuelta al inicio de la oleada",
+    "bench_full": "Banca llena",
+    "leave_game": "Salir",
+    "leave_game_confirm": "¿Salir de esta partida y volver al menú? Perderás la partida actual."
+  },
+  "settings": {
+    "title": "Ajustes",
+    "language": "Idioma",
+    "reduced_motion": "Movimiento Reducido",
+    "reduced_motion_desc": "Reduce animaciones y movimiento visual de la interfaz.",
+    "compact_menu": "Menu Compacto",
+    "compact_menu_desc": "Reduce el espacio y el tamano de los botones del menu principal.",
+    "confirm_exit": "Confirmar Salida",
+    "confirm_exit_desc": "Pide confirmacion antes de cerrar la app desde el menu principal.",
+    "muted": "Silenciar Todo",
+    "muted_desc": "Silencia musica y efectos de sonido.",
+    "music_enabled": "Musica",
+    "music_enabled_desc": "Reproduce musica ambiental durante las oleadas.",
+    "music_volume": "Volumen de Musica",
+    "music_volume_desc": "Ajusta volumen de musica de fondo.",
+    "sfx_enabled": "Efectos de Sonido",
+    "sfx_enabled_desc": "Reproduce impactos, disparos y alertas de combate.",
+    "sfx_volume": "Volumen de Efectos",
+    "sfx_volume_desc": "Ajusta volumen de efectos de combate e interfaz.",
+    "sign_in_play_games": "Iniciar sesión con Play Games",
+    "signed_in_as": "Sesión iniciada como",
+    "signing_in": "Iniciando sesión…",
+    "analytics": "Permitir analíticas anónimas",
+    "analytics_desc": "Compartir datos de uso anónimos y no personales para ayudar a mejorar el juego. Desactivado por defecto."
+  },
+  "save_transfer": {
+    "title": "Transferencia de Guardado",
+    "subtitle": "Exporta tu partida actual o pega una aqui para importarla en otro dispositivo.",
+    "data": "Datos del Guardado",
+    "placeholder": "Exporta una partida o pegala aqui para importarla.",
+    "export": "Exportar Partida",
+    "copy": "Copiar",
+    "import": "Importar Partida",
+    "close": "Cerrar",
+    "exported": "La partida actual se exporto abajo.",
+    "copied": "Partida copiada al portapapeles.",
+    "copy_failed": "La copia fallo. Aun puedes copiar el texto manualmente.",
+    "imported": "Partida importada. Recargando...",
+    "import_failed": "La importacion fallo. Revisa los datos pegados e intentalo otra vez."
+  },
+  "cloud_save": {
+    "conflict_title": "Conflicto de progreso",
+    "conflict_body": "Este dispositivo y la nube tienen progreso diferente. ¿Cuál quieres conservar?",
+    "keep_device": "Conservar este dispositivo",
+    "keep_cloud": "Conservar la nube"
+  },
+  "unit": {
+    "something": {
+      "knight": "Caballero",
+      "rogue": "Pícaro",
+      "archer": "Arquero"
+    }
+  },
+  "stats": {
+    "title": "Configuracion de Unidad",
+    "health": "Vida",
+    "damage": "Dano",
+    "range": "Alcance",
+    "attackSpeed": "Velocidad de Ataque",
+    "tier": "Nivel",
+    "base": "Base",
+    "run": "Ejecucion",
+    "permanent": "Permanente"
+  },
+  "skins": {
+    "title": "Aspectos de Unidades",
+    "close": "Cerrar",
+    "default": "Predeterminado",
+    "class_tank": "Caballero",
+    "class_dps": "Pícaro",
+    "class_ranged": "Arquero"
+  }
+}
