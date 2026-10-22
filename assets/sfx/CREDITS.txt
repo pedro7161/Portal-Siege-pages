@@ -1,0 +1,14 @@
+Sound effects in this folder are by Kenney (https://kenney.nl), licensed CC0 1.0
+(public domain, https://creativecommons.org/publicdomain/zero/1.0/). No attribution required;
+credited here anyway. Files keep their original names from these packs:
+
+- RPG Audio        https://kenney.nl/assets/rpg-audio        (knifeSlice*, drawKnife1, chop, bookFlip*, cloth*)
+- Impact Sounds    https://kenney.nl/assets/impact-sounds    (impact*)
+- Interface Sounds https://kenney.nl/assets/interface-sounds (pluck_*, maximize_*, confirmation_*)
+- Sci-Fi Sounds    https://kenney.nl/assets/sci-fi-sounds    (explosionCrunch_*, lowFrequency_explosion_*)
+
+Which file plays for which game event: Portal-Siege src/app/config/sfx.config.ts
+
+Additional original portal, emergence, merge, boss-warning, menu-confirmation and formation-move cues were composed in LMMS and rendered using MuseScore General SF2. See MUSESCORE-GENERAL-LICENSE.txt for attribution and MIT terms.
+
+ui-denied.ogg (the "denied" cue for refused taps) is an original sound made for Portal Siege.

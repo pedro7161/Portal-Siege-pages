@@ -1,0 +1,281 @@
+{
+  "menu": {
+    "title": "Portal Siege",
+    "subtitle": "Tap to Battle",
+    "start": "Start",
+    "permanent_research": "Permanent Research",
+    "settings": "Settings",
+    "tutorial": "Tutorial",
+    "almanac": "Almanac",
+    "exit": "Exit",
+    "import_data": "Import Data",
+    "skins": "Skins"
+  },
+  "tutorial": {
+    "title": "How to Play",
+    "merge_title": "Merge",
+    "merge_body": "Match two units of the same type and tier to create one stronger piece. Merging saves board space and is your main route to carrying late waves.",
+    "grid_title": "Grid",
+    "grid_body": "Only the 3×3 battle grid fights. Put knights in front to buy time, then let rogues and archers attack through the lane they create.",
+    "bench_title": "Bench",
+    "bench_body": "The bench is your staging area. Keep spare pairs there, line up future merges, and avoid clogging your active board before a wave starts.",
+    "summon_title": "Summon",
+    "summon_body": "Summons feed your merge engine. Spend gold when it helps you hit an upgrade or stabilize the next fight, not just because the button is available.",
+    "research_title": "Research",
+    "research_body": "Each cleared wave advances your active run research. Pick the tab that matches your current plan: army power, castle survival, enemy control, or economy tempo.",
+    "permanent_title": "Permanent Research",
+    "permanent_body": "Meta currency unlocks long-term upgrades between runs. Use it to smooth weak openings, expand options, and build toward stronger starts.",
+    "start_wave_title": "Start Wave",
+    "start_wave_body": "Winning pays gold and advances research. Leaks hit the castle, so every placement decision is really a survival check for the next wave.",
+    "footer": "Build for the next wave, merge for the wave after that.",
+    "close": "Got it!"
+  },
+  "almanac": {
+    "archive": "Archive",
+    "back": "Back",
+    "close": "Close",
+    "unknown": "Unknown",
+    "locked_entry": "Defeat or encounter this entry in battle to reveal its record.",
+    "base_stats": "Base Stats",
+    "stats_locked": "Stats locked.",
+    "mechanics": "Mechanics",
+    "mechanics_locked": "Mechanics locked.",
+    "player_unit": "Player Unit",
+    "enemy_unit": "Enemy Unit",
+    "boss": "Boss",
+    "tier_short": "T",
+    "player_entries": {
+      "player": {
+        "tank": {
+          "1": {
+            "story": "Frontline anchor that absorbs pressure and holds space for the rest of the army. Tier 1 knights are siege-line veterans trained to stand where the army would otherwise break.",
+            "mechanics": [
+              "Knights hold the frontline and convert tier 1 durability into extra time for every backliner behind them.",
+              "Best used as the first point of contact so archers keep firing and rogues get clean follow-up windows."
+            ]
+          },
+          "2": {
+            "story": "Frontline anchor that absorbs pressure and holds space for the rest of the army. Tier 2 knights are siege-line veterans trained to stand where the army would otherwise break.",
+            "mechanics": [
+              "Knights hold the frontline and convert tier 2 durability into extra time for every backliner behind them.",
+              "Best used as the first point of contact so archers keep firing and rogues get clean follow-up windows."
+            ]
+          },
+          "3": {
+            "story": "Frontline anchor that absorbs pressure and holds space for the rest of the army. Tier 3 knights are siege-line veterans trained to stand where the army would otherwise break.",
+            "mechanics": [
+              "Knights hold the frontline and convert tier 3 durability into extra time for every backliner behind them.",
+              "Best used as the first point of contact so archers keep firing and rogues get clean follow-up windows."
+            ]
+          }
+        },
+        "dps": {
+          "1": {
+            "story": "Aggressive melee finisher built to punish openings and snowball merges into kills. Tier 1 rogues fight like executioners, slipping into weak points before the enemy line can recover.",
+            "mechanics": [
+              "Rogues thrive on short melee trades and hit harder each time you merge into a cleaner, denser carry.",
+              "Keep them just behind a knight or on a protected lane so they spend more time attacking than walking."
+            ]
+          },
+          "2": {
+            "story": "Aggressive melee finisher built to punish openings and snowball merges into kills. Tier 2 rogues fight like executioners, slipping into weak points before the enemy line can recover.",
+            "mechanics": [
+              "Rogues thrive on short melee trades and hit harder each time you merge into a cleaner, denser carry.",
+              "Keep them just behind a knight or on a protected lane so they spend more time attacking than walking."
+            ]
+          },
+          "3": {
+            "story": "Aggressive melee finisher built to punish openings and snowball merges into kills. Tier 3 rogues fight like executioners, slipping into weak points before the enemy line can recover.",
+            "mechanics": [
+              "Rogues thrive on short melee trades and hit harder each time you merge into a cleaner, denser carry.",
+              "Keep them just behind a knight or on a protected lane so they spend more time attacking than walking."
+            ]
+          }
+        },
+        "ranged": {
+          "1": {
+            "story": "Backline specialist that delivers safe ranged damage while the frontline buys time. Tier 1 archers win battles by patience, cutting down threats long before they can answer in kind.",
+            "mechanics": [
+              "Archers convert distance into safety, letting tier 1 range pressure keep firing while tougher units stall for them.",
+              "Place them behind the frontline and let research or merges turn steady chip damage into wave control."
+            ]
+          },
+          "2": {
+            "story": "Backline specialist that delivers safe ranged damage while the frontline buys time. Tier 2 archers win battles by patience, cutting down threats long before they can answer in kind.",
+            "mechanics": [
+              "Archers convert distance into safety, letting tier 2 range pressure keep firing while tougher units stall for them.",
+              "Place them behind the frontline and let research or merges turn steady chip damage into wave control."
+            ]
+          },
+          "3": {
+            "story": "Backline specialist that delivers safe ranged damage while the frontline buys time. Tier 3 archers win battles by patience, cutting down threats long before they can answer in kind.",
+            "mechanics": [
+              "Archers convert distance into safety, letting tier 3 range pressure keep firing while tougher units stall for them.",
+              "Place them behind the frontline and let research or merges turn steady chip damage into wave control."
+            ]
+          }
+        }
+      }
+    }
+  },
+  "desktop": {
+    "run_status": "Run Status",
+    "highest_tier": "Highest Tier",
+    "army": "Army",
+    "grid_used": "Grid Used",
+    "reserve_used": "Reserve Used",
+    "no_units": "No units deployed yet.",
+    "known_threats": "Known Threats",
+    "no_threats": "No enemies discovered yet."
+  },
+  "game": {
+    "landscape_only": "Landscape Only",
+    "rotate_landscape": "Rotate device to landscape to play.",
+    "gold": "Gold",
+    "bench_full": "Bench full",
+    "wave": "Wave",
+    "hp": "HP",
+    "wave_clear": "Wave Clear!",
+    "units": "Units",
+    "reserve_grid": "Reserve & Grid",
+    "show": "Show",
+    "hide": "Hide",
+    "controls": "Controls",
+    "actions": "Actions",
+    "expand": "Expand",
+    "default": "Default",
+    "research": "Research",
+    "permanent": "Permanent",
+    "reserve_bench": "Reserve Bench",
+    "active_grid": "Active Grid",
+    "cannot_merge": "Cannot merge - different type or tier!",
+    "press_drag_move": "Press and drag to move",
+    "summon_button": "Summon (50G)",
+    "preview_wave": "Preview next wave composition",
+    "wave_info": "Wave Info",
+    "start_wave": "Start Wave",
+    "waves": "waves",
+    "open_research": "Open Research",
+    "preview": "Preview",
+    "no_enemies_wave": "No enemies in this wave",
+    "total": "Total",
+    "enemies": "enemies",
+    "complete": "Complete",
+    "gold_gained": "Gold Gained",
+    "enemies_killed": "Enemies Killed",
+    "damage_received": "Damage Received",
+    "unit_stats": "Unit Stats",
+    "continue": "Continue",
+    "close": "Close",
+    "unit_details": "Unit Details",
+    "tier": "Tier",
+    "tier_short": "T",
+    "health": "Health",
+    "damage": "Damage",
+    "range": "Range",
+    "attack_speed": "Attack Speed",
+    "armor": "Armor",
+    "cost": "Cost",
+    "sell_value": "Sell Value",
+    "type": "Type",
+    "sell_unit": "Sell Unit",
+    "unit_damage_stats": "Unit Damage Stats",
+    "damage_dealt": "Damage Dealt",
+    "no_units_battle": "No units participated in battle",
+    "game_over": "Game Over",
+    "max_wave": "Max Wave",
+    "max_tier": "Max Tier",
+    "total_merges": "Total Merges",
+    "damage_taken": "Damage Taken",
+    "gold_earned": "Gold Earned",
+    "gold_spent": "Gold Spent",
+    "meta_coins_gained": "Meta Coins Gained",
+    "restart": "Restart",
+    "back_to_menu": "Back to Menu",
+    "unit_tank": "Knight",
+    "unit_dps": "Rogue",
+    "unit_ranged": "Archer",
+    "boss_mace": "Mace Lord",
+    "boss_ballista": "Ballista Demon",
+    "boss_pitch_fork": "Pitchfork Fiend",
+    "boss_spear": "Spear Rider",
+    "boss_portal": "Portal Guardian",
+    "enemy_tank": "Tank Demon",
+    "enemy_dps": "DPS Demon",
+    "enemy_archer": "Archer Demon",
+    "enemy_goblin": "Goblin",
+    "random_boss": "Random Boss"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "reduced_motion": "Reduced Motion",
+    "reduced_motion_desc": "Cuts interface animation and visual motion.",
+    "compact_menu": "Compact Menu",
+    "compact_menu_desc": "Shrinks main menu spacing and button size.",
+    "confirm_exit": "Confirm Exit",
+    "confirm_exit_desc": "Ask before closing the app from the main menu.",
+    "muted": "Mute All",
+    "muted_desc": "Silence music and sound effects.",
+    "music_enabled": "Music",
+    "music_enabled_desc": "Play ambient battle music during waves.",
+    "music_volume": "Music Volume",
+    "music_volume_desc": "Sets background music volume.",
+    "sfx_enabled": "Sound Effects",
+    "sfx_enabled_desc": "Play combat hits, shots, and alerts.",
+    "sfx_volume": "SFX Volume",
+    "sfx_volume_desc": "Sets combat and UI effect volume.",
+    "sign_in_play_games": "Sign in with Play Games",
+    "signed_in_as": "Signed in as",
+    "signing_in": "Signing in…",
+    "analytics": "Allow anonymous analytics",
+    "analytics_desc": "Share anonymous, non-personal usage data to help improve the game. Off by default."
+  },
+  "save_transfer": {
+    "title": "Save Transfer",
+    "subtitle": "Export your current save or paste one here to import it on another device.",
+    "data": "Save Data",
+    "placeholder": "Export a save, or paste one here to import.",
+    "export": "Export Save",
+    "copy": "Copy",
+    "import": "Import Save",
+    "close": "Close",
+    "exported": "Current save exported below.",
+    "copied": "Save copied to clipboard.",
+    "copy_failed": "Copy failed. You can still select and copy the text manually.",
+    "imported": "Save imported. Reloading...",
+    "import_failed": "Import failed. Check the pasted save data and try again."
+  },
+  "cloud_save": {
+    "conflict_title": "Save conflict",
+    "conflict_body": "This device and the cloud have different progress. Which do you want to keep?",
+    "keep_device": "Keep this device",
+    "keep_cloud": "Keep cloud"
+  },
+  "unit": {
+    "something": {
+      "knight": "Knight",
+      "rogue": "Rogue",
+      "archer": "Archer"
+    }
+  },
+  "stats": {
+    "title": "Unit Configuration",
+    "health": "Health",
+    "damage": "Damage",
+    "range": "Range",
+    "attackSpeed": "Attack Speed",
+    "tier": "Tier",
+    "base": "Base",
+    "run": "Run",
+    "permanent": "Permanent"
+  },
+  "skins": {
+    "title": "Unit Skins",
+    "close": "Close",
+    "default": "Default",
+    "class_tank": "Knight",
+    "class_dps": "Rogue",
+    "class_ranged": "Archer"
+  }
+}
